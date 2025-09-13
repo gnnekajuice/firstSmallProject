@@ -9,7 +9,3 @@ It allows users to create multiple shelves of different genres, add books to eac
 - Display the list of books and the total number of books on each shelf
 - Demonstrates object-oriented programming: classes, inheritance, and encapsulation
 
-## How to Use
-1. Clone the repository:  
-```bash
-git clone <your-repo-url>
